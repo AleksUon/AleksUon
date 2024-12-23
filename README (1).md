@@ -1,6 +1,6 @@
-# Hello there! 👋 I’m Nikita
+I’m Aleks!
 
-I'm a Machine Learning Engineer with experience in developing and deploying ML models. I specialize in Python and leveraging modern technologies for data analysis and AI model development.
+I am a 2nd year student at the RTU MIREA of Software Engineering at the Department of Computing Technologies
 
 # ⚙️ Technologies
 
@@ -8,6 +8,8 @@ I'm a Machine Learning Engineer with experience in developing and deploying ML m
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/>
 
 ## 🤖 Machine Learning
 ![Static Badge](https://img.shields.io/badge/Classification-blue)
