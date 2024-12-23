@@ -4,7 +4,7 @@
 
 <h1>
   Hey there! I’m Aleks!
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="30px"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="30px"/>
 </h1>
 
 I am a 2nd year student at the RTU MIREA of Software Engineering at the Department of Computing Technologies.
