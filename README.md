@@ -9,6 +9,7 @@
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   I am a 2nd-year student at RTU MIREA, pursuing Software Engineering at the Department of Computing Technologies.
 </p>
 
@@ -31,6 +32,17 @@ Creativity meets technology! I love exploring design tools to bring ideas to lif
 
 ![Adobe](https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
+---
+## 👨🏻‍💻 Office 
+Creativity meets technology! I love exploring design tools to bring ideas to life:
+
+![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
 
 ---
 
