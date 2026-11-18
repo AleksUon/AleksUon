@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
 <p align="center">
-  I am a 2nd-year student at RTU MIREA, pursuing Software Engineering at the Department of Computing Technologies.
+  I am a 4nd-year student at RTU MIREA, pursuing Software Engineering at the Department of Computing Technologies.
 </p>
 
 <div align="center">
